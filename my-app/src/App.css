@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+body{
+  text-align: center;
+  display: block;
+
+}
+.top-react-icons {
+  color: rgb(0, 0, 0);
+  font-size: 4rem;
+  position: relative;
+  top: 12rem;
+  transition: 0.3s;
+  
+}
+.top-react-icons:hover {
+  color: darkorange;
+  font-size: 5rem;
+
+ 
+}
+h2{
+  font-size: 35px;
+   padding: 25px;
+    position: relative;
+    top: 5%;
+    left: 35rem;
+}
+div{
+  display: flex;
+  padding: 10px 20px;
+  position: relative;
+  
+  text-align: center;
+}
+h1{
+  position: relative;
+  top: 8rem;
+  right: 5rem;
+}
